@@ -75,9 +75,9 @@ The model achieves reliable detection on real-world street footage, especially f
 The trained model was tested on **unseen videos**, including both YouTube and phone-recorded footage.
 
 <p align="center">
-  <img src="inference/sample_inference/output1.jpg" width="250"/>
-  <img src="inference/sample_inference/output4.jpg" width="250"/>
-  <img src="inference/sample_inference/output5.jpg" width="250"/>
+  <img src="inference/sample_inference/output1.png" width="250"/>
+  <img src="inference/sample_inference/output4.png" width="250"/>
+  <img src="inference/sample_inference/output5.png" width="250"/>
 </p>
 
 ---
